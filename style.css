@@ -1,0 +1,9 @@
+body{
+    background: url("images/0.jpg") no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   }
+h1{background: slategray;display: inline; color: gold;}
+p{font-size: 32px;color: tomato;}
