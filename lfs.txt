@@ -1,0 +1,4 @@
+git lfs track "*.psd"
+git add path/to/file.psd
+git commit -m "add file.psd"
+git push origin master
