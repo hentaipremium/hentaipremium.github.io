@@ -7,11 +7,14 @@ body{
    }
 h1{background: slategray;display: inline; color: gold;}
 p{font-size: 32px;color: tomato;}
+p1{font-size: 32px;color: black;}
+p2{font-size: 18px;color: gold;}
+p2{background: slategray;display: inline; color: MidnightBlue;}
 .dropbtn {
-    background-color: black;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
+    background-color: slategray;
+    color: MidnightBlue;
+    padding: 7px;
+    font-size: 24px;
     border: none;
 }
  
